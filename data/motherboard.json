@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Gigabyte H610MK DDR4",
+    "category": "motherboard",
+    "socket": "LGA1700",
+    "ram": "DDR4",
+    "price": 60
+  },
+  {
+    "name": "ASROCK H510M-H2/M.2 SE",
+    "category": "motherboard",
+    "socket": "LGA1200",
+    "ram": "DDR4",
+    "price": 58
+  },
+  {
+    "name": "ASRock H610M-H2/M.2",
+    "category": "motherboard",
+    "socket": "LGA1200",
+    "ram": "DDR4",
+    "price": 60
+  },
+  {
+    "name": "Gigabyte B760 DS3H WIFI6E GEN5",
+    "category": "motherboard",
+    "socket": "LGA1700",
+    "ram": "DDR5",
+    "price": 122
+  },
+  {
+    "name": "Gigabyte B850M AORUS ELITE",
+    "category": "motherboard",
+    "socket": "AM5",
+    "ram": "DDR5",
+    "price": 60
+  },
+  {
+    "name": "ASUS PRIME B550M-A WIFI II",
+    "category": "motherboard",
+    "socket": "AM4",
+    "ram": "DDR4",
+    "price": 58
+  },
+  {
+    "name": "ASRock B650M PRO X3D WIFI",
+    "category": "motherboard",
+    "socket": "AM5",
+    "ram": "DDR5",
+    "price": 60
+  },
+  {
+    "name": "Maxsun B650M WIFI",
+    "category": "motherboard",
+    "socket": "AM4",
+    "ram": "DDR4",
+    "price": 58
+  }
+]

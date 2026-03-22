@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HDD Corsair 1TB",
+    "category": "storage",
+    "price": 134
+  },
+  {
+    "name": "Kingston 2TB",
+    "category": "storage",
+    "price": 98
+  },
+  {
+    "name": "SSD Corsair 2TB",
+    "category": "storage",
+    "price": 160
+  },
+  {
+    "name": "Kingston 1TB",
+    "category": "storage",
+    "price": 67
+  },
+  {
+    "name": "Samsung 500GB",
+    "category": "storage",
+    "price": 50
+  },
+  {
+    "name": "WD BLUE 2TB",
+    "category": "storage",
+    "price": 90
+  }
+]

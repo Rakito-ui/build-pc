@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Gaming Budget - by YouTuber A",
+    "creator": "pewdiepie 2018",
+    "items": [
+      {"category": "cpu","name":"intel core i9 7980XE","price":150},
+      {"category":"motherboard","name":"Asus Prime X299","price":400},
+      {"category":"ram","name":"Gskill 16gb","price":80},
+      {"category":"gpu","name":"Nvidia Geforce gtx 1080 TI","price":150},
+      {"category":"m2","name":"samsung 960 500GB","price":150},
+      {"category":"psu","name":"Supernova G2","price":150}
+    ]
+  },
+  {
+    "name": "Streaming Setup - by Influencer B",
+    "creator": "miawaug",
+    "items": [
+      {"category":"cpu","name":"Intel Core i9-14900K","price":150},
+      {"category":"motherboard","name":"Asus Maximus Z790","price":400},
+      {"category":"ram","name":"Corsair CMH64 32gb","price":80},
+      {"category":"gpu","name":"ASUS Geforce RTX 4090","price":150},
+      {"category":"cooler","name":"Asus Ryujin 360 EVA 02","price":150},
+      {"category":"m2","name":"MSI Platinum 2TB","price":150},
+      {"category":"psu","name":"ASUS ROG Thor 1000W","price":150},
+      {"category":"case","name":"ASUS ROG Hyperion EVA 02","price":150}
+    ]
+  }
+]

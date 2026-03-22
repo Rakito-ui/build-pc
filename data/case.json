@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Digital alliance N70X BTF ATX W/TYPE-C NO FAN Black/White",
+    "category": "case",
+    "price": 40
+  },
+  {
+    "name": "THERMALRIGHT MATX TL-M10 VISION Black/White",
+    "category": "case",
+    "price": 102
+  },
+    {
+    "name": "ADATA XPG ATX INVADER X (5X 120mm ARGB Fan) ",
+    "category": "case",
+    "price": 90
+  },
+  {
+    "name": "COOLER MASTER ATX MASTERFRAME 600 MODULAR HID-CON + Adata PSU CORE REACTOR 80+ Gold Fully Modular",
+    "category": "case",
+    "price": 195
+  },
+   {
+    "name": "COOLER MASTER ATX MASTERFRAME 600 MODULAR HID-CON + XPG Adata PSU PYMCORE SFX 80+ Platinum Fully Modular",
+    "category": "case",
+    "price": 92
+  }
+  
+]

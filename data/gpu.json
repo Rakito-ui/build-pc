@@ -1,0 +1,32 @@
+[
+  {
+    "name": "GALAX Geforce GT 710 2GB DDR3",
+    "category": "gpu",
+    "price": 32
+  },
+  {
+    "name": "Gigabyte Geforce RTX 3050 6GB GDDR6",
+    "category": "gpu",
+    "price": 232
+  },
+  {
+    "name": "PELADN Geforce GTX 1660 SUPER 6GB GDDR6 Dual Fan",
+    "category": "gpu",
+    "price": 225
+  },
+  {
+    "name": "Inno 3D Geforce RTX 5060 8GB GDDR7",
+    "category": "gpu",
+    "price": 386
+  },
+  {
+    "name": "ASROCK Radeon RX 7600 8GB GDDR6",
+    "category": "gpu",
+    "price": 350
+  },
+  {
+    "name": "Sapphire PURE Radeon RX 9060 XT 16GB GDDR6",
+    "category": "gpu",
+    "price": 495
+  }
+]

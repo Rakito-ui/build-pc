@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META & TITLE -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galaxy PC Builder</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- 🌌 BACKGROUND STARS -->
+    <div class="stars"></div>
+
+    <!-- 🔝 HEADER -->
+    <header>
+        <h1>Galaxy PC Builder</h1>
+    </header>
+
+    <!-- 📦 MAIN CONTAINER -->
+    <div class="container">
+
+        <!-- 🧩 CATEGORY PAGE -->
+        <div id="categoryPage">
+            <h2>Select Component</h2>
+
+            <div class="category-grid">
+                <div class="category-card" onclick="openCategory('cpu')">CPU</div>
+                <div class="category-card" onclick="openCategory('motherboard')">Motherboard</div>
+                <div class="category-card" onclick="openCategory('ram')">RAM</div>
+                <div class="category-card" onclick="openCategory('gpu')">VGA</div>
+                <div class="category-card" onclick="openCategory('cooler')">Cooling</div>
+                <div class="category-card" onclick="openCategory('storage')">HDD / SSD</div>
+                <div class="category-card" onclick="openCategory('m2')">M.2</div>
+                <div class="category-card" onclick="openCategory('psu')">Power Supply</div>
+                <div class="category-card" onclick="openCategory('case')">Casing</div>
+                <div class="category-card" onclick="openCategory('fan')">Fan</div>
+
+                <!-- 🔥 RECOMMENDATION BUTTON -->
+                <div class="category-card" onclick="openRecommendation()">🔥 Rekomendasi PC</div>
+            </div>
+        </div>
+
+
+        <!-- ⭐ RECOMMENDATION PAGE -->
+        <div id="recommendPage" style="display:none">
+            <!-- BACK BUTTON -->
+            <button class="back-btn" onclick="goHome()">← Back</button>
+
+            <!-- TITLE -->
+            <h2>Rekomendasi PC</h2>
+
+            <!-- SEARCH -->
+            <div class="search-box">
+                <input type="text" id="recommendSearch" placeholder="Search recommendation...">
+            </div>
+
+            <!-- LIST REKOMENDASI -->
+            <div class="components" id="recommendList"></div>
+        </div>
+
+
+        <!-- 🧩 COMPONENT PAGE -->
+        <div id="componentPage" style="display:none">
+
+            <!-- HEADER (BACK + TITLE) -->
+            <div class="component-header">
+                <button class="back-btn" onclick="goHome()">← Back</button>
+                <h2 id="componentTitle"></h2>
+            </div>
+
+            <!-- SEARCH -->
+            <div class="search-box">
+                <input type="text" id="componentSearch" placeholder="Search component...">
+            </div>
+
+            <!-- LIST COMPONENT -->
+            <div class="components" id="components"></div>
+        </div>
+
+
+        <!-- 🛒 BUILD LIST / CART -->
+        <div class="build-list">
+            <h2>Your PC Build</h2>
+
+            <!-- ACTION BUTTONS -->
+            <button onclick="clearBuild()" style="background:#ff4d4d;margin-bottom:10px;">
+                🗑️ Clear Build
+            </button>
+
+            <button onclick="exportPDF()" style="background:#00b894;margin-bottom:10px;">
+                📄 Export to PDF
+            </button>
+
+            <button onclick="sendToWhatsApp()" style="background:#25D366;margin-bottom:10px;">
+                📱 send to WhatsApp
+            </button>
+
+            <!-- BUILD ITEMS -->
+            <div id="build"></div>
+
+            <!-- TOTAL PRICE -->
+            <div class="total" id="total">Total: $0</div>
+
+            <!-- WARNING -->
+            <div class="warning" id="warning"></div>
+        </div>
+
+    </div>
+
+
+    <!-- ⬆ BACK TO TOP BUTTON -->
+    <button id="backToTop" onclick="scrollToTop()">⬆</button>
+
+
+    <!-- 🔻 FOOTER -->
+    <footer>
+        <p>2026 HAPPY • Galaxy PC Builder • Build your dream PC</p>
+    </footer>
+
+
+    <!-- 📦 LIBRARY (PDF) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <!-- ⚙️ MAIN SCRIPT -->
+    <script src="script.js"></script>
+
+</body>
+</html>

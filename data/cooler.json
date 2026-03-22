@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CUBE GAMING Wind V2 Rainbow Led",
+    "category": "cooler",
+    "price": 7
+  },
+  {
+    "name": "cooler MASTER A71C ARGB",
+    "category": "cooler",
+    "price": 15
+  },
+    {
+    "name": "be quiet! Pure Rock Slim 2",
+    "category": "cooler",
+    "price": 25
+  },
+  {
+    "name": "PRIME POLAR 360T V2.0 ARGB White",
+    "category": "cooler",
+    "price": 52
+  },
+  {
+    "name": "PRIME POLAR 120T V2.0 ARGB Liquid cooler",
+    "category": "cooler",
+    "price": 28
+  },
+    {
+    "name": "LIAN LI Galahad II LCD 360 White 2.88",
+    "category": "cooler",
+    "price": 240
+  }
+]

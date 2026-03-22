@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Team MP33 512GB M.2 2280 NVME",
+    "category": "m2",
+    "price": 102
+  },
+  {
+    "name": "Samsung SSD 980 500GB",
+    "category": "m2",
+    "price": 100
+  },
+  {
+    "name": "ADATA Legend 710 256GB",
+    "category": "m2",
+    "price": 80
+  },
+  {
+    "name": "Samsung SSD 990 PRO 1TB",
+    "category": "m2",
+    "price": 210
+  },
+  {
+    "name": "ADATA XPG Gammix S70 BLADE 1TB",
+    "category": "m2",
+    "price": 212
+  },
+  {
+    "name": "ACER FA200 500GB",
+    "category": "m2",
+    "price": 98
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Corsair 32GB",
+    "category": "ram",
+    "ram": "DDR5",
+    "price": 150
+  },
+  {
+    "name": "Kingston 16GB",
+    "category": "ram",
+    "ram": "DDR5",
+    "price": 80
+  },
+  {
+    "name": "Corsair 8GB",
+    "category": "ram",
+    "ram": "DDR5",
+    "price": 140
+  },
+  {
+    "name": "Kingston 32GB",
+    "category": "ram",
+    "ram": "DDR5",
+    "price": 70
+  },
+  {
+    "name": "Apacer 32GB",
+    "category": "ram",
+    "ram": "DDR4",
+    "price": 50
+  },
+  {
+    "name": "Kingston 2GB",
+    "category": "ram",
+    "ram": "DDR4",
+    "price": 20
+  },
+  {
+    "name": "Corsair 16GB RGB",
+    "category": "ram",
+    "ram": "DDR4",
+    "price": 140
+  },
+  {
+    "name": "Kingston 32GB RGB",
+    "category": "ram",
+    "ram": "DDR4",
+    "price": 120
+  }
+]

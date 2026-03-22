@@ -1,0 +1,32 @@
+[
+  {
+    "name": "1STPLAYER ACK Series 550W",
+    "category": "psu",
+    "price": 60
+  },
+  {
+    "name": "1STPLAYER Gaming psu 500W Fully Modular",
+    "category": "psu",
+    "price": 80
+  },
+  {
+    "name": "Seasonic Vertex 1000W",
+    "category": "psu",
+    "price": 250
+  },
+  {
+    "name": "Seasonic 650W",
+    "category": "psu",
+    "price": 100
+  },
+  {
+    "name": "Corsair CX 650W",
+    "category": "psu",
+    "price": 70
+  },
+  {
+    "name": "LIAN LI 750W 80+ Gold",
+    "category": "psu",
+    "price": 110
+  }
+]
